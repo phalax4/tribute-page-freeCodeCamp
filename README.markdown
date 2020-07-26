@@ -7,3 +7,4 @@ https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-p
 
 ## Credits
 https://stackoverflow.com/questions/27392692/bootstrap-timeline
+https://gist.github.com/cobyism/4730490
